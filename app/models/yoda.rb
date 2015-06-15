@@ -18,8 +18,6 @@ class Yoda < ActiveRecord::Base
       end
 
       def yoda_talks(sentence)
-      
       sentence.play
-
-       end 
+      end 
 end
