@@ -1,12 +1,10 @@
 == README
 
-* Description : YodaSpeak is a fun app that allows users to input a statement and using text to speech, returns a Yodaized declaration.
+* Description : YodaSpeak is a fun app that allows users to input a statement and using text to speech, and returns a Yodaized declaration.
 
 * Ruby version : 2.2.1
 
 * System dependencies : c2h2/tts
-
-* Configuration
 
 * Deployment instructions : make sure to brew install c2h2/tts gem before getting started. 
 
