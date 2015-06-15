@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Description : YodaSpeak is a fun app that allows users to input a statement and using text to speech, returns a Yodaized declaration.
 
-Things you may want to cover:
+* Ruby version : 2.2.1
 
-* Ruby version
-
-* System dependencies
+* System dependencies : c2h2/tts
 
 * Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Deployment instructions : make sure to brew install c2h2/tts gem before getting started. 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
