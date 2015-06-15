@@ -21,3 +21,8 @@ class Yoda < ActiveRecord::Base
       sentence.play
       end 
 end
+
+
+
+
+
